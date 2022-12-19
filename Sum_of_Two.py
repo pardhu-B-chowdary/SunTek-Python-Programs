@@ -1,0 +1,5 @@
+print("Program to add two numbers")
+a = int(input())
+b = int(input())
+print(f"{a}+{b}={a+b}")
+input()
